@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Exmen parcial": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
